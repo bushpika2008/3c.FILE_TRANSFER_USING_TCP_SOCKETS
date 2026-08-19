@@ -57,7 +57,6 @@ conn.close()
 ``` 
 ## OUPUT
 <img width="1600" height="900" alt="WhatsApp Image 2026-08-19 at 09 03 57" src="https://github.com/user-attachments/assets/18cb41e0-18f5-4f8d-b3c5-7d0fa50175bb" />
-
 <img width="1600" height="900" alt="WhatsApp Image 2026-08-19 at 09 05 01" src="https://github.com/user-attachments/assets/31b0215a-c835-46f6-9754-bac80ed933a9" />
 
 ## RESULT
